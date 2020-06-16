@@ -1,0 +1,41 @@
+<template>
+ <div class="foot-box fl">
+    头部
+ </div>
+</template>
+
+<script>
+ export default {
+   name: '',
+   props: {
+   },
+   components: {
+
+   },
+   data () {
+     return {
+
+     }
+   },
+   methods: {
+
+   },
+   mounted() {
+
+   },
+   watch: {
+
+   },
+   computed: {
+
+   }
+ }
+</script>
+
+<style scoped lang='scss'>
+  .foot-box {
+    width: 1000px;
+    height: 555px;
+    background: #F0F2F5;
+  }
+</style>
